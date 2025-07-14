@@ -1,0 +1,24 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.13.3",
+  "startedAt": "2025-07-10T10:49:17.654311Z",
+  "program": "C:\\Users\\90546\\Desktop\\reacher_v3\\train_reacher_v3.py",
+  "codePath": "train_reacher_v3.py",
+  "codePathLocal": "train_reacher_v3.py",
+  "email": "krkcdeniz15@gmail.com",
+  "root": "C:\\Users\\90546\\Desktop\\reacher_v3",
+  "host": "DESKTOP-E3OIJ6K",
+  "executable": "c:\\Users\\90546\\Desktop\\reacher_v3\\.venv\\Scripts\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1023411220480",
+      "used": "109608914944"
+    }
+  },
+  "memory": {
+    "total": "14773178368"
+  },
+  "writerId": "yqbhb54icydaskmjzx1fha8agrmrtkrm"
+}

@@ -1,0 +1,18 @@
+{"time":"2025-07-10T12:49:17.971236+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-10T12:49:18.2971347+02:00","level":"INFO","msg":"stream: created new stream","id":"pwrt9bgw"}
+{"time":"2025-07-10T12:49:18.2971347+02:00","level":"INFO","msg":"stream: started","id":"pwrt9bgw"}
+{"time":"2025-07-10T12:49:18.2971347+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:49:18.2971347+02:00","level":"INFO","msg":"sender: started","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:49:18.2971347+02:00","level":"INFO","msg":"handler: started","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:49:18.7428346+02:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-10T12:49:31.5114129+02:00","level":"WARN","msg":"tensorboard: no root directory","error":"timed out after 10s"}
+{"time":"2025-07-10T12:49:31.5114129+02:00","level":"INFO","msg":"tensorboard: tracking new log directory","rootDir":{},"logDir":"LocalOrCloudPath(LocalPath=\"C:\\\\Users\\\\90546\\\\Desktop\\\\reacher_v3\\\\ppo_tensorboard\\\\PPO_2\")","namespace":""}
+{"time":"2025-07-10T12:49:31.5119305+02:00","level":"INFO","msg":"tensorboard: saving file","fileLocation":"C:\\Users\\90546\\Desktop\\reacher_v3\\ppo_tensorboard\\PPO_2\\events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0","runPath":"ppo_tensorboard/PPO_2/events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0"}
+{"time":"2025-07-10T12:49:31.5161796+02:00","level":"ERROR","msg":"tensorboard: error creating symlink","target":"C:\\Users\\90546\\Desktop\\reacher_v3\\ppo_tensorboard\\PPO_2\\events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0","symlink":"C:\\Users\\90546\\Desktop\\reacher_v3\\wandb\\run-20250710_124917-pwrt9bgw\\files\\ppo_tensorboard\\PPO_2\\events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0","error":"symlink C:\\Users\\90546\\Desktop\\reacher_v3\\ppo_tensorboard\\PPO_2\\events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0 C:\\Users\\90546\\Desktop\\reacher_v3\\wandb\\run-20250710_124917-pwrt9bgw\\files\\ppo_tensorboard\\PPO_2\\events.out.tfevents.1752144561.DESKTOP-E3OIJ6K.8060.0: Gereken ayrıcalık istemci tarafından sağlanmıyor."}
+{"time":"2025-07-10T12:52:17.3912785+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-10T12:52:17.6803588+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-10T12:52:17.6820747+02:00","level":"INFO","msg":"stream: closing","id":"pwrt9bgw"}
+{"time":"2025-07-10T12:52:17.6820747+02:00","level":"INFO","msg":"handler: closed","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:52:17.6820747+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:52:17.6846791+02:00","level":"INFO","msg":"sender: closed","stream_id":"pwrt9bgw"}
+{"time":"2025-07-10T12:52:17.6846791+02:00","level":"INFO","msg":"stream: closed","id":"pwrt9bgw"}
